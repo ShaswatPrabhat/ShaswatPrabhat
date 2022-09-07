@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on React, React-Native, Rendering on Web, GoLang and Distributed Systems
+- 🔭 I’m currently working on React, React-Native, Rendering Patterns on Web, GoLang and Distributed Systems
 
 <!--
 **ShaswatPrabhat/ShaswatPrabhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
