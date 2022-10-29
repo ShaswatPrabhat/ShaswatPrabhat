@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on React, React-Native, Rendering Patterns on Web, GoLang and Distributed Systems
+🔭 I’m currently working on React, React-Native, Rendering Patterns on Web, GoLang and Distributed Systems
 
 [![@shaswatprabhat's Holopin board](https://holopin.me/shaswatprabhat)](https://holopin.io/@shaswatprabhat)
 
