@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Vue, React, React-Native, Rendering Patterns on Web, 
+🔭 I’m currently working on Vue, React, React-Native, Rendering Patterns on Web
+
+
 🌱 I’m currently learning Vite, GoLang and Distributed Systems
-- 👯 I’m looking to collaborate on Web Tooling, CLI applications or active communities
+
+
+👯 I’m looking to collaborate on Web Tooling, CLI applications or active communities
 
 [![@shaswatprabhat's Holopin board](https://holopin.me/shaswatprabhat)](https://holopin.io/@shaswatprabhat)
 
