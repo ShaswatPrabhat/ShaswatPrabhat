@@ -30,14 +30,14 @@
   <img alt="WebStorm" src="https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white" />
 </p>
 
-## 📈 &nbsp;Some Github Stats ##
-<span align="left">
+<!-- ## 📈 &nbsp;Some Github Stats ## -->
+<!-- <span align="left">
 
 ![Th3Wall's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaswatPrabhat&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
 </span>
 <span align="right">
 ![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shaswatPrabhat&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
-</span>
+</span> -->
 
 [![@shaswatprabhat's Holopin board](https://holopin.me/shaswatprabhat)](https://holopin.io/@shaswatprabhat)
 
